@@ -4,7 +4,7 @@ Django
 django-cors-headers==3.13.0
 djangorestframework==3.13.1
 nltk==3.7
-regex==2022.9.13
+regex==2022.10.31
 scikit-learn
 pandas
 dj-database-url
