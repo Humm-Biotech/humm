@@ -1,0 +1,1 @@
+web: gunicorn --pythonpath humm_backend humm_backend.wsgi
