@@ -3,7 +3,7 @@ backports.zoneinfo==0.2.1
 Django
 django-cors-headers==3.13.0
 djangorestframework==3.13.1
-nltk==3.7
+nltk==3.8.1
 regex==2022.9.13
 scikit-learn
 pandas
